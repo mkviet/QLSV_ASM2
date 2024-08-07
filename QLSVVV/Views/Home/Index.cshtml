@@ -1,0 +1,63 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>School Homepage</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #007bff;
+        }
+
+        .btn-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 0 10px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #3498db;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+
+            .btn:hover {
+                background-color: #3498db;
+            }
+    </style>
+</head>
+<body>
+    <h1>Welcome To Homepage</h1>
+
+    <div class="btn-container">
+        <a class="btn btn-outline-info" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+        
+        <a class="btn btn-outline-info" asp-area="" asp-controller="Authentication" asp-action="Login">Log In</a>
+    </div>
+</body>
+</html>

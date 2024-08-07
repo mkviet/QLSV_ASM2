@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\classes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\teachers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C7F82E-2931-49FC-92EF-A92B1CC31139}|TestQLSV\\QLSVVV.Tests.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\testqlsv\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C7F82E-2931-49FC-92EF-A92B1CC31139}|TestQLSV\\QLSVVV.Tests.csproj|solutionrelative:testqlsv\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\teachers\\manageteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\teachers\\manageteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\students\\managestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\students\\managestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|c:\\users\\admin\\downloads\\asm2-mvcapp-main\\qlsvvv\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BCCEAEF-5CD3-4453-9C19-F05DFC58A83C}|QLSVVV\\QLSV.csproj|solutionrelative:qlsvvv\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\TestQLSV\\Controllers.cs",
+              "RelativeDocumentMoniker": "TestQLSV\\Controllers.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\TestQLSV\\Controllers.cs",
+              "RelativeToolTip": "TestQLSV\\Controllers.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAswEMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:03:59.728Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Classes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Classes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Classes\\Edit.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Classes\\Edit.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwFwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:53:09.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Courses\\Edit.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:50:55.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Teachers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:50:22.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageTeacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Teachers\\ManageTeacher.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Teachers\\ManageTeacher.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Teachers\\ManageTeacher.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Teachers\\ManageTeacher.cshtml",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAAwMcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:32:20.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Teachers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Teachers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Teachers\\Edit.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Teachers\\Edit.cshtml",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAwHsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:16:59.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:10:02.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Students\\ManageStudent.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Students\\ManageStudent.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Students\\ManageStudent.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Students\\ManageStudent.cshtml",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAAwNUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T06:32:29.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "QLSVVV\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\ASM2-MvcApp-main\\QLSVVV\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "QLSVVV\\Views\\Users\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T05:10:20.781Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
